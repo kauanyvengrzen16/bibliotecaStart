@@ -1,0 +1,11 @@
+.cabecalho{
+background-color:var(--cor-de-cabecalho);
+padding:lem;
+}
+.container{
+display:flex;
+align-itens:center;
+}
+.container__imagem,.container__frase{
+padding:lem
+}
